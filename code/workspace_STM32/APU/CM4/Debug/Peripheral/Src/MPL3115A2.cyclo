@@ -1,0 +1,12 @@
+../Peripheral/Src/MPL3115A2.c:15:6:setI2CInterface_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:20:9:WRITE_REGISTER_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:26:9:READ_REGISTER_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:32:9:ReadBar_MPL3115A2_v2	1
+../Peripheral/Src/MPL3115A2.c:41:5:parseBar_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:47:9:newValue_MPL3115A2	2
+../Peripheral/Src/MPL3115A2.c:57:6:Init_Bar_int_MPL3115A2	2
+../Peripheral/Src/MPL3115A2.c:76:6:Init_Bar_MPL3115A2	2
+../Peripheral/Src/MPL3115A2.c:98:6:Active_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:107:6:Standby_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:116:10:Read_Temp_MPL3115A2	1
+../Peripheral/Src/MPL3115A2.c:127:8:parseTemp_MPL3115A2	2

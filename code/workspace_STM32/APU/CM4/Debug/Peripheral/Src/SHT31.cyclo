@@ -1,0 +1,10 @@
+../Peripheral/Src/SHT31.c:30:6:SHT31_Config	1
+../Peripheral/Src/SHT31.c:40:14:SHT31_SendCommand	2
+../Peripheral/Src/SHT31.c:49:14:SHT31_GetBytes	2
+../Peripheral/Src/SHT31.c:57:14:SHT31_GetData	9
+../Peripheral/Src/SHT31.c:116:10:SHT31_GetCommand	3
+../Peripheral/Src/SHT31.c:130:9:SHT31_CRC_8	4
+../Peripheral/Src/SHT31.c:145:7:SHT31_GetHumidity	1
+../Peripheral/Src/SHT31.c:148:7:SHT31_GetTemperature	1
+../Peripheral/Src/SHT31.c:152:10:SHT31_GetHumidity_raw	1
+../Peripheral/Src/SHT31.c:155:10:SHT31_GetTemperature_raw	1
