@@ -60,6 +60,5 @@ The following hardware and tools were used during development and testing:
   - Sensor and module libraries used: `OBC/code/workspace_STM32/APU/CM4/Peripheral`
 
 ## Author
-**David Fernando Evangelista Cuti**  
-Electronics Engineering  
+**David Fernando Evangelista Cuti**<br>
 National University of Engineering (UNI), Peru
