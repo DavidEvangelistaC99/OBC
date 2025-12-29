@@ -17,10 +17,10 @@ Firmware development and integration were carried out using STM32CubeIDE, target
 
 ## System Description
 The onboard computer integrates the following sensors, selected according to their respective datasheets:
-- **SHT31**: Measures ambient temperature and relative humidity
-- **MPL3115A2**: Provides atmospheric pressure and altitude estimation
-- **BNO085**: Supplies inertial measurement data, including orientation and motion sensing
-- **SD Card Module**: Enables onboard data logging and storage
+- **SHT31**: measures ambient temperature and relative humidity
+- **MPL3115A2**: provides atmospheric pressure and altitude estimation
+- **BNO085**: supplies inertial measurement data, including orientation and motion sensing
+- **SD Card Module**: enables onboard data logging and storage
 
 ## Results
 The implemented system successfully enables:
@@ -29,13 +29,13 @@ The implemented system successfully enables:
 - Local data storage for post-processing and validation
 
 ## Repository Structure
-- `code/`: Contains source code organized by development environment (Arduino, ESP32, STM32 NUCLEO)
-- `datasheets/`: Datasheets of sensors, microcontrollers, and communication modules
-- `documentation/`: Technical documentation describing the usage and configuration of sensors and microcontrollers
-- `images/`: Reference images related to the project
-- `libraries/`: Sensor and peripheral libraries
-- `media/`: Initial test data and experiments using the MPU6050 sensor
-- `user_manuals/`: Reviewed user manuals of STM32 NUCLEO boards
+- `code/`: contains source code organized by development environment (Arduino, ESP32, STM32 NUCLEO)
+- `datasheets/`: datasheets of sensors, microcontrollers, and communication modules
+- `documentation/`: technical documentation describing the usage and configuration of sensors and microcontrollers
+- `images/`: reference images related to the project
+- `libraries/`: sensor and peripheral libraries
+- `media/`: initial test data and experiments using the MPU6050 sensor
+- `user_manuals/`: reviewed user manuals of STM32 NUCLEO boards
 
 ## Hardware Setup
 The following hardware and tools were used during development and testing:
