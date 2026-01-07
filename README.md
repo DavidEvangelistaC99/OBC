@@ -13,8 +13,8 @@ The project focuses on validating hardware, sensors, and communication systems p
 The system employs STM32 NUCLEO boards, specifically the NUCLEO-H755ZI dual-core board operating as the onboard computer inside the rocket, and the NUCLEO-F446RE board used as the ground station system.
 
 ## Methods
-Initial configurations and functional tests of microcontrollers, sensors, and communication modules were first performed using Arduino and ESP32 development boards. Once proper operation was verified, the system was migrated to the STM32 platform.
-Firmware development and integration were carried out using STM32CubeIDE, targeting the dual-core H755ZI board. Wireless communication between the onboard computer (TX) and the ground station (RX) was implemented using EBYTE LoRa modules operating at 915 MHz. Sensor data acquired by the onboard computer is transmitted to the ground station and simultaneously stored on the SD card.
+
+Communication with sensors and peripheral modules was implemented using standard digital communication protocols, including I2C, UART, and SPI. Initial configurations and functional tests of microcontrollers, sensors, and communication modules were first performed using Arduino and ESP32 development boards. Once proper operation was verified, the system was migrated to the STM32 platform. Firmware development and integration were carried out using STM32CubeIDE, targeting the dual-core H755ZI board. Wireless communication between the onboard computer (TX) and the ground station (RX) was implemented using EBYTE LoRa modules operating at 915 MHz. Sensor data acquired by the onboard computer is transmitted to the ground station and simultaneously stored on the SD card.
 
 ## System Description
 The onboard computer integrates the following sensors, selected according to their respective datasheets:
