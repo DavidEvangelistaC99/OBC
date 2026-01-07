@@ -8,7 +8,8 @@
 </p>
 
 ## Overview
-This repository contains the source code and documentation derived from preliminary tests conducted for the implementation of an Onboard Computer (OBC) applied to an experimental rocket designed by APU Space. The project focuses on validating hardware, sensors, and communication systems prior to final deployment.
+This repository contains the source code and documentation derived from preliminary tests conducted for the implementation of an OnBoard Computer (OBC) applied to an experimental rocket designed by APU Space.<br><br> 
+The project focuses on validating hardware, sensors, and communication systems prior to final deployment.
 The system employs STM32 NUCLEO boards, specifically the NUCLEO-H755ZI dual-core board operating as the onboard computer inside the rocket, and the NUCLEO-F446RE board used as the ground station system.
 
 ## Methods
