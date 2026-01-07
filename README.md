@@ -4,7 +4,7 @@
   <img src="images/prototype_4.png" width="900">
 </p>
 <p align="center">
-  <em>Onboard Computer Breadboard Prototype for Testing and Programming.</em>
+  <em>OnBoard Computer breadboard prototype for testing and programming.</em>
 </p>
 
 ## Overview
